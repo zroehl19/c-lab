@@ -16,7 +16,7 @@
 using namespace std;
 
 /*
- * 
+ * everything
  */
 int main() {
     int vector[] = {3, -5, 7, 10, -4, 14, 5, 2, -13};
